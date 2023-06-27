@@ -1,0 +1,40 @@
+{
+    "tutorials": [
+        {
+            "id": 1,
+            "desc":  " The novel tells the story of Lily Bloom and her doomed romance with Ryle Kincaid and traces her past history growing up in an abusive home, her fall into an abusive relationship, and her escape from that relationship.",
+            "image_url": "https://i.postimg.cc/xd92CRSt/it-ends-with-us.webp",
+            "price": 129.95
+        },
+        {
+            "id": 2,
+            "desc":  "Lily deals with her chaotic life as a floral shop owner, single mom and co-parent with her ex-husband — who can't seem to grasp the fact that they will never get back together. But when Lily's first love, Atlas, turns up in her life, she realizes that the chaos has only just begun",
+            "image_url": "https://i.postimg.cc/KcMHPKzg/it-starts-with-you.jpg",
+            "price": 145.00
+        },
+        {
+            "id": 3,
+            "desc":  "Reminders of Him follows Kenna Rowan, a young mother who has recently been released from prison after a five-year stint inside for making a terrible error of judgement.",
+            "image_url": "https://i.postimg.cc/hPrYPqpQ/reminders-of-him.jpg",
+            "price": 239.45
+        },
+        {
+            "id": 4,
+            "desc":"Regretting You follows Morgan Grant and her teenage daughter Clara who are experiencing the usual issues faced by mothers and daughters",
+            "image_url": "https://i.postimg.cc/8C1PfDS8/regretting-you.jpg",
+            "price": 189.99
+        },
+        {
+            "id": 5,
+            "desc": "A monumental modern romance with a literary twist, November 9 follows the life of a writer and former actress.Hoover introduces Ben, a young man who has dreams of becoming a writer.",
+            "image_url": "https://i.postimg.cc/XYNYp4WR/November-9.webp",
+            "price": 235.46
+        },
+        {
+            "id": 6,
+            "desc": "All Your Perfects is a profound novel about a damaged couple whose potential future hinges on promises made in the past",
+            "image_url": "https://i.postimg.cc/bwYC5V6n/all-your-perfects.jpg",
+            "price": 179.95
+        }
+    ]
+}
